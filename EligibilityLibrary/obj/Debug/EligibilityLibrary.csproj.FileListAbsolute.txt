@@ -1,0 +1,6 @@
+c:\users\rivkie\source\repos\PresidentialEligibility\EligibilityLibrary\bin\Debug\EligibilityLibrary.dll
+c:\users\rivkie\source\repos\PresidentialEligibility\EligibilityLibrary\bin\Debug\EligibilityLibrary.pdb
+c:\users\rivkie\source\repos\PresidentialEligibility\EligibilityLibrary\obj\Debug\EligibilityLibrary.csprojAssemblyReference.cache
+c:\users\rivkie\source\repos\PresidentialEligibility\EligibilityLibrary\obj\Debug\EligibilityLibrary.csproj.CoreCompileInputs.cache
+c:\users\rivkie\source\repos\PresidentialEligibility\EligibilityLibrary\obj\Debug\EligibilityLibrary.dll
+c:\users\rivkie\source\repos\PresidentialEligibility\EligibilityLibrary\obj\Debug\EligibilityLibrary.pdb

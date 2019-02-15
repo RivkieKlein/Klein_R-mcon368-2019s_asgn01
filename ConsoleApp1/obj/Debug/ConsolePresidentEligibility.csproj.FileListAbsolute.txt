@@ -1,0 +1,10 @@
+c:\users\rivkie\source\repos\PresidentialEligibility\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\rivkie\source\repos\PresidentialEligibility\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\rivkie\source\repos\PresidentialEligibility\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\rivkie\source\repos\PresidentialEligibility\ConsoleApp1\bin\Debug\EligibilityLibrary.dll
+c:\users\rivkie\source\repos\PresidentialEligibility\ConsoleApp1\bin\Debug\EligibilityLibrary.pdb
+c:\users\rivkie\source\repos\PresidentialEligibility\ConsoleApp1\obj\Debug\ConsolePresidentEligibility.csprojAssemblyReference.cache
+c:\users\rivkie\source\repos\PresidentialEligibility\ConsoleApp1\obj\Debug\ConsolePresidentEligibility.csproj.CoreCompileInputs.cache
+c:\users\rivkie\source\repos\PresidentialEligibility\ConsoleApp1\obj\Debug\ConsolePresidentEligibility.csproj.CopyComplete
+c:\users\rivkie\source\repos\PresidentialEligibility\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\rivkie\source\repos\PresidentialEligibility\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
