@@ -1,0 +1,13 @@
+C:\Users\Rivkie\source\repos\PresidentialEligibility\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Rivkie\source\repos\PresidentialEligibility\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Rivkie\source\repos\PresidentialEligibility\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Rivkie\source\repos\PresidentialEligibility\WindowsFormsApp1\bin\Debug\EligibilityLibrary.dll
+C:\Users\Rivkie\source\repos\PresidentialEligibility\WindowsFormsApp1\bin\Debug\EligibilityLibrary.pdb
+C:\Users\Rivkie\source\repos\PresidentialEligibility\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Rivkie\source\repos\PresidentialEligibility\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Rivkie\source\repos\PresidentialEligibility\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Rivkie\source\repos\PresidentialEligibility\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Rivkie\source\repos\PresidentialEligibility\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rivkie\source\repos\PresidentialEligibility\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Rivkie\source\repos\PresidentialEligibility\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Rivkie\source\repos\PresidentialEligibility\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

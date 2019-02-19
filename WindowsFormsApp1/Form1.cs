@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EligibilityLibrary;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -38,18 +39,22 @@ namespace WindowsFormsApp1
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
-            if (checkBox2.Checked)
-            {
-                rebel = true;
-            }
-
-            check
+            
         }
 
 
         private void button1_Click(object sender, EventArgs e)
         {
+          Boolean eligible=  Class1.eligible(checkBox1.Checked, Convert.ToInt16(textBox1.Text) , Convert.ToInt16(textBox2.Text), checkBox2.Checked);
 
+            if (eligible)
+            {
+                label3.Text = "You are eligible to run for president";
+            }
+            else
+            {
+                label3.Text = "You are not eligible to run for president";
+            }
         }
     }
 }

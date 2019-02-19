@@ -79,5 +79,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EligibilityLibrary\EligibilityLibrary.csproj">
+      <Project>{1ea6e167-4380-4949-8688-1ec31b4c1419}</Project>
+      <Name>EligibilityLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
